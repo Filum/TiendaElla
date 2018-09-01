@@ -3,6 +3,8 @@
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 <!-- Main CSS -->
 <link rel="stylesheet" href="./css/main.css">
+<!--FAVICON-->
+<link rel="icon" type="image/png" sizes="16x16" href="img_empresa/favicon.ico">
 <!-- Ionicons -->
 <link rel="stylesheet" href="dist/css/ionicons.css">
 <!-- iCheck -->
